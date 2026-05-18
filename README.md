@@ -49,10 +49,7 @@
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=AngyUrda29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   />
   
-  <img 
-    width="37%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngyUrda29&layout=compact&theme=tokyonight&hide_border=true" 
-  />
+
 </p>
 
 # 🔥 GitHub Streak:
