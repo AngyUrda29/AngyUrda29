@@ -1,16 +1,78 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Angelica</h1>
+<h3 align="center">Frontend Developer from Venezuela</h3>
 
-<!--
-**AngyUrda29/AngyUrda29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on building my personal brand and developing my personal website focused on modern frontend development and clean user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate with businesses, startups, and teams that need help creating modern, responsive, and user-friendly websites.
+
+- 🤝 I’m looking for help with improving my web projects, learning best practices, and staying updated with new frontend technologies and tools.
+
+- 🌱 I’m currently learning modern frontend technologies, UI/UX improvements, and best practices for building scalable web applications.
+
+- 💬 Ask me about web development, frontend tools, responsive design, and creating clean and attractive user interfaces.
+
+- 📫 How to reach me: **[Send me an Email](mailto:angelicamurd2909@gmail.com)**
+
+---
+
+<h3 align="left">👩‍💻 Skills:</h3>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,vue,react,bootstrap,css,html,angular,tailwind,androidstudio,mysql,postgres,git" />
+
+</p>
+
+---
+
+<h3 align="left">🎨 Design Tools:</h3>
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=ps,ai" />
+
+</p>
+
+---
+
+<h3 align="left">👀 Profile Views:</h3>
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=AngyUrda29&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats:
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AngyUrda29&show_icons=true&theme=tokyonight" alt="stats" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AngyUrda29&theme=tokyonight" alt="streak" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USERNAME&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top langs" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AngyUrda29&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+
+</p>
