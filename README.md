@@ -46,11 +46,24 @@
 <p align="center">
   <img 
     width="49%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=AngyUrda29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=AngyUrda29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
   />
-  
 
+  <img 
+    width="37%" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AngyUrda29&layout=compact&theme=tokyonight&hide_border=true" 
+  />
 </p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap" />
+</p>
+
+---
 
 # 🔥 GitHub Streak:
 
