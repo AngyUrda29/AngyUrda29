@@ -20,9 +20,7 @@
 <h3 align="left">👩‍💻 Skills:</h3>
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,vue,react,bootstrap,css,html,angular,tailwind,androidstudio,mysql,postgres,git" />
-
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,vue,react,bootstrap,css,html,angular,tailwind,androidstudio,mysql,postgres,git" />
 </p>
 
 ---
@@ -30,9 +28,7 @@
 <h3 align="left">🎨 Design Tools:</h3>
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=ps,ai" />
-
+  <img src="https://skillicons.dev/icons?i=ps,ai" />
 </p>
 
 ---
@@ -40,9 +36,7 @@
 <h3 align="left">👀 Profile Views:</h3>
 
 <p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=AngyUrda29&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-
+  <img src="https://komarev.com/ghpvc/?username=AngyUrda29&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -50,21 +44,23 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AngyUrda29&show_icons=true&theme=tokyonight" alt="stats" />
-
+  <img 
+    width="49%" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=AngyUrda29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  />
+  
+  <img 
+    width="37%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngyUrda29&layout=compact&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AngyUrda29&theme=tokyonight" alt="streak" />
-
-</p>
+# 🔥 GitHub Streak:
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USERNAME&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top langs" />
-
+  <img 
+    src="https://streak-stats.demolab.com?user=AngyUrda29&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 ---
@@ -72,7 +68,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AngyUrda29&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=AngyUrda29&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" 
+  />
 </p>
